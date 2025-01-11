@@ -1,0 +1,21 @@
+body{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+text-align: center;
+background-image: url(https://wallpaper.forfun.com/fetch/98/98d6c705bf5fc08687224e0069be952c.jpeg);
+background-size: cover;
+background-repeat: no-repeat;
+background-blend-mode: overlay;
+background-color: rgba(0, 0, 0, 0.3);
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+scroll-behavior: smooth;
+}
+
+#myButton{
+    margin-top: 300px;
+    font-size: 3em;
+    padding: 5px 25px;
+    border-radius: 5px ;
+}
+#myLabel{
+    font-size: 3em;
+}
