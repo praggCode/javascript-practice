@@ -41,3 +41,8 @@ const password = genaratePassword(passwordLenght,
                                   includeSymbol);
 
 console.log(`Your password is: ${password}`);
+
+function displayPage(){
+    document.getElementById("myH1").textContent = `Your password is: ${password}`;
+}
+console.log(displayPage());
